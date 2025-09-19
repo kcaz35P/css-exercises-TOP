@@ -1,0 +1,17 @@
+.style-me{
+   background-color: red; 
+   color: white;
+   text-align: center;
+   font-size: 50px;
+}
+
+p{
+   background-color: green;
+   color: white;
+   font-size: 30px;
+}
+
+#id-selector{
+   background-color: orange;
+   font-size: 27px;
+}
