@@ -9,7 +9,8 @@
     background-color: yellow;
 }
 
-button{
+.button1,
+.button2{
     font-size: 24px;
     font-family:' Helvetic', 'Times New Roman','sans-serif';
 }
